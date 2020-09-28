@@ -6,9 +6,11 @@ public class Main {
         stdnt1.alder = 24;
         stdnt1.by ="Nykøbing Falster";
         stdnt1.navn = "Fredrik";
-
+        // String navn, int alder, String by
         Elev stdnt2 = new Elev("Lasse", 22);
-
+        // String navn, int alder, String by, String linie, String semester, String campus
+        Elev stdnt3 = new Elev("Deniz", 20, "vordingborg", "datamatiker", "første", "Næstved");
+        // String navn, int alder
         Elev stdnt4 = new Elev("Simon", 24, "Faxe");
 /*
         Elev stdnt2 = new Elev();
@@ -42,6 +44,13 @@ public class Main {
                     break;
                 default:
                     System.out.print(opslag + "no idea bro");
+
+
+
+
+                    //Smart table:holder styr på hvor længe ting har ligget på dit bord. hjælper dig med at holde dit bord rydeligt.
+                    //Smart stations: holder styr på hvor længe visse midler har stået stille:støvsuger,
+                    // radiatorer
             }
         }
 
