@@ -1,4 +1,4 @@
-public class If_opg {
+/*public class If_opg {
     public static void main(String[] args) {
         int interest = (int)(Math.random() * 3 + 1);
 
@@ -11,4 +11,4 @@ public class If_opg {
 
     }
 
-}
+}*/

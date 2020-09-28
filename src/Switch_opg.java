@@ -1,4 +1,4 @@
-public class Switch_opg {
+/*public class Switch_opg {
     public static void main(String[] args) {
         int nice = (int)(Math.random() * 5 + 1);
 
@@ -8,7 +8,7 @@ public class Switch_opg {
             break;
             case 2:
             System.out.print("okey, i guess");
-                break;
+            break;
             case 3:
             System.out.print("nice");
             break;
@@ -21,3 +21,4 @@ public class Switch_opg {
         }
     }
 }
+*/
